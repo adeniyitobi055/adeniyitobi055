@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tobi
 - 👀 I’m a Full-Stack Software Engineer.
 - 🌱 Making great impact is what I love doing.
-- 💞️ I look forward to working with Microsoft.
+- 💞️ I look forward to working with You.
 - 📫 You can reach me at adedejiadeniyi055@gmail.com
 
 <!---
