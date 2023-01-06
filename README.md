@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tobi
-- 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning software engineering with ALX.
-- 💞️ I’m looking to join a study group of ALX software engineering students.
+- 👀 I’m a Full-Stack Software Engineer.
+- 🌱 Making great impact is what I love doing.
+- 💞️ I look forward to working with Microsoft.
 - 📫 You can reach me at adedejiadeniyi055@gmail.com
 
 <!---
